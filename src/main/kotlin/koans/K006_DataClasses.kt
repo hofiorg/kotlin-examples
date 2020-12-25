@@ -1,3 +1,5 @@
+// https://play.kotlinlang.org/koans/Introduction/Data%20classes/Task.kt
+
 package koans
 
 data class Person(val name:String, val age:Int)

@@ -1,3 +1,5 @@
+// https://play.kotlinlang.org/koans/Introduction/Nullable%20types/Task.kt
+
 package koans
 
 fun sendMessageToClient(client: Client?, message: String?, mailer: Mailer){
