@@ -1,3 +1,3 @@
-# kotlin_examples  &middot; [![Build Status](https://travis-ci.org/hofiorg/kotlin_examples.svg?branch=master)](https://travis-ci.org/hofiorg/kotlin_examples)
+# kotlin_examples  &middot; ![gradle workflow](https://github.com/hofiorg/kotlin_examples/actions/workflows/gradle.yml/badge.svg)
 
 Kotlin examples
