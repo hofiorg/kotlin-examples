@@ -3,8 +3,5 @@
 !/.idea/runConfigurations/
 *.iml
 out
-gradle
 build
 .gradle
-gradlew
-gradlew.bat
