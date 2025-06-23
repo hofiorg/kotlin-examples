@@ -1,8 +1,8 @@
-# kotlin_examples
+# Kotlin Examples
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-1.9.24-A97BFF?logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-![gradle workflow](https://github.com/hofiorg/kotlin_examples/actions/workflows/gradle.yml/badge.svg)
+![gradle workflow](https://github.com/hofiorg/kotlin-examples/actions/workflows/gradle.yml/badge.svg)
 
 A curated collection of Kotlin example programs, exercises (koans), and unit tests to help learn the language effectively.
 
