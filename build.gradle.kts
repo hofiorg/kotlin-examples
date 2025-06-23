@@ -22,7 +22,8 @@ dependencies {
     implementation("org.junit.jupiter:junit-jupiter:5.10.2")
 
     testImplementation(kotlin("test"))
-    testImplementation(kotlin("test-junit"))
+    testImplementation("org.jetbrains.kotlin:kotlin-test-junit5")
+
     testImplementation("org.mockito:mockito-core:5.12.0")
 }
 
